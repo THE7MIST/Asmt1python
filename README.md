@@ -50,8 +50,7 @@ Hello, Jane Doe! Welcome to the Python program.
 ## How to Run
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/THE7MIST/Asmt1python.git
 2. Navigate into the project directory:
    cd your-repo-name
 3. Run the script:
