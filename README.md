@@ -55,4 +55,6 @@ Hello, Jane Doe! Welcome to the Python program.
 2. Navigate into the project directory:
    cd your-repo-name
 3. Run the script:
-   python main.py
+   python task1_math_operations.py
+python task2_personalized_greeting.py
+
